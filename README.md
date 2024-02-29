@@ -10,4 +10,4 @@ Commit
 
 Close
 
-Push
+Then push
